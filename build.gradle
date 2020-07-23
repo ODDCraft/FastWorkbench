@@ -31,9 +31,6 @@ repositories {
         url "https://dvs1.progwml6.com/files/maven"
     }
 	maven {
-		url "http://tehnut.info/maven"
-	}
-	maven {
 		url 'http://maven.blamejared.com'
 	}
 }
