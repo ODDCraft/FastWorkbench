@@ -42,8 +42,8 @@ repositories {
 		url = 'http://dvs1.progwml6.com/files/maven'
 	}
 	maven {
-		name = 'ModMaven'
-		url = 'modmaven.k-4u.nl'
+		name = 'tehnut'
+		url = 'https://maven.tehnut.info/'
 	}
 }
 
