@@ -31,5 +31,5 @@ jobs:
       - name: Release
         uses: fnkr/github-action-ghr@v1
         env:
-          GHR_PATH: build/libs
+          GHR_PATH: jar
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
